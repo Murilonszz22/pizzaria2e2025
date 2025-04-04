@@ -43,7 +43,9 @@ const Formulario = (props)=>{
       <Formulario nome = "Maria" sombra = "Digite sua idade.." />
       <Formulario nome = "Tomas" sombra = "Digite seu time.."/>
       <Formulario nome = "Antionieta" sombra = "Digite o valor de pi" />
-
+      <Formulario/>
+      <Formulario/>
+      <Formulario/>
       
 
     </div>
